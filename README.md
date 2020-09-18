@@ -1,6 +1,6 @@
 
 ---
-PA0 (Optional): Computer Setup
+# PA0 (Optional): Computer Setup
 ---
 
 This assignment will teach you how to setup Java and Eclipse, get the starter code from GitHub, and how to run Eclipse projects.
