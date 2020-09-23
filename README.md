@@ -30,8 +30,7 @@ If you are unsure or have questions about how to get the starter code, feel free
 
 
 ## Running an Eclipse Project
-Open Eclipse and navigate to 
-
+Open Eclipse and wait for it to prompt you to select a workspace. Click `launch` after you naivagate to the folder in which you want to host your eclipse projects. For example, this can be a new folder labeled 'CSE12Projects' on your Desktop. Now click the `Import existing projects` where you will click browse to select a folder for the root directory. Be sure to select the same folder that was produced from unzipping/cloning the project in the previous section. Now click on the drop down arrows to reveal the file contents of pa0-starter. Continue this until you find the file labeled 'HelloWorld.java'. Double click on the file to open it in the editor. To run it, simply right click (Mac: control+click) on the file and select 'Run As' and then select 'Java Application'. You should now see "Hello World!" printed to the eclipse console. You have successfully ran a program on eclipse!
 
     
 
