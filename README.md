@@ -11,6 +11,11 @@ It is due on Wednesday, October 7th at 11:59pm. No submission for this assignmen
 
 Follow this document to install Java and Eclipse for either Windows or Mac: [Installtion Instructions](https://docs.google.com/document/d/1wiWmSw-t3PIkFtu4hDhAmWykpleA3h-he3AaDb1Fq4A/edit?usp=sharing)
 
+### Video Tutorial
+Follow this supplementary video if you have any issues downloading Java or Eclipse:
+
+   Windows: https://drive.google.com/file/d/1XTR6piRSMA1y3JJpcPp2iO_MlhOEaDF_/view?usp=sharing
+
 ## Getting the Code
 
 Link to the starter code: https://github.com/CSE12-F20-Assignments/cse12-fa20-pa0-Setup-starter
