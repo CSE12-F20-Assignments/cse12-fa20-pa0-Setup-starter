@@ -15,6 +15,8 @@ Follow this document to install Java and Eclipse for either Windows or Mac: [Ins
 Follow this supplementary video if you have any issues downloading Java or Eclipse:
 
    Windows: https://drive.google.com/file/d/1XTR6piRSMA1y3JJpcPp2iO_MlhOEaDF_/view?usp=sharing
+   
+   Mac: https://github.com/CSE12-F20-Assignments/cse12-fa20-pa0-Setup-starter
 
 ## Getting the Code
 
