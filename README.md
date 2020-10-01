@@ -14,7 +14,7 @@ Follow this document to install Java and Eclipse for either Windows or Mac: <a t
 ### Video Tutorial
 Follow this supplementary video if you have any issues downloading Java or Eclipse:
 
-Windows: <a href="https://drive.google.com/file/d/1XTR6piRSMA1y3JJpcPp2iO_MlhOEaDF_/view?usp=sharing" target="_blank">https://drive.google.com/file/d/1XTR6piRSMA1y3JJpcPp2iO_MlhOEaDF_/view?usp=sharing</a> 
+Windows: <a href="https://drive.google.com/file/d/1XTR6piRSMA1y3JJpcPp2iO_MlhOEaDF_/view?usp=sharing" target="_blank">https://drive.google.com/file/d/1XTR6piRSMA1y3JJpcPp2iO_MlhOEaDF_/view?usp=sharing</a>  
 or on Canvas: <a target="_blank" href="https://canvaskaf.ucsd.edu/media/t/1_1dmxqbnj/183495401">https://canvaskaf.ucsd.edu/media/t/1_1dmxqbnj/183495401</a>
    
    Mac: <a href="https://drive.google.com/file/d/1HRO6Yb3Ira4VIM5ogOm04T2c7u-pwUh2/view?usp=sharing" target="_blank">https://drive.google.com/file/d/1HRO6Yb3Ira4VIM5ogOm04T2c7u-pwUh2/view?usp=sharing</a>  
